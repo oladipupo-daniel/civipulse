@@ -88,4 +88,4 @@ with col2:
     st.write("Crafted from the ground up to guarantee independence, performance, and user-first data safety.")
 
 st.markdown("---")
-st.markdown("<p style='text-align: center; color: gray;'>Built with ❤️ by oladipupo-daniel. Download today.</p>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; color: gray;'>Built with Top Security.</p>", unsafe_allow_html=True)
